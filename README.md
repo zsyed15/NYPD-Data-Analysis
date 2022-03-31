@@ -1,1 +1,2 @@
 # NYPD-Data-Analysis
+Included is a are two notebooks. The first one details my exploratory data analysis of the NYPD data set. The second details our process of diving into the data set, hoping to answer a specific research question. The second notebook also contains N implementation of a decision tree classifier in order to identify trends in the data and predict whether a complaintant is going to get a successful outcome from their allegation.
